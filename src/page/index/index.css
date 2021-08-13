@@ -1,0 +1,28 @@
+.content{
+    display: flex;
+}
+.leftMenu{
+    width: 480px;
+    text-align: right;
+}
+ul{
+    margin: 0;
+    list-style: none;
+}
+li{
+    margin: 24px 0;
+    cursor: pointer;
+}
+li:hover{
+    color: rgba(65,157,251,1);
+}
+.rightUi{
+    flex: 1;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+.header{
+    text-align: center;
+}

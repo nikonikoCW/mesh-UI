@@ -1,0 +1,35 @@
+.primary{
+    width: 98px;
+    height: 36px;
+    background-color: rgba(64,158,255,1);
+    border: 1px solid rgba(64,158,255,1);
+    border-radius: 3px;
+}
+.defualt{
+    width: 98px;
+    height: 36px;
+    background-color: transparent;
+    border: 1px solid rgba(0,0,0,0.4);
+    border-radius: 3px;
+}
+.success{
+    width: 98px;
+    height: 36px;
+    border: 1px solid rgba(103,194,58,1);
+    background-color: rgba(103,194,58,1);
+    border-radius: 3px;
+}
+.danger{
+    width: 98px;
+    height: 36px;
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 3px;
+}
+.warning{
+    width: 98px;
+    height: 36px;
+    border: 1px solid rgba(230,162,60,1);
+    background-color: rgba(230,162,60,1);
+    border-radius: 3px;
+}

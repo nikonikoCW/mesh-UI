@@ -1,0 +1,17 @@
+.mesh-input{
+    width: 100%;
+}
+input{
+    width: 360px;
+    height: 20px;
+    margin: 2px;
+    padding: 0;
+    border: 1px solid rgba(0,0,0,.4);
+}
+textarea{
+    width: 360px;
+    height: 48px;
+    margin: 2px;
+    border: 1px solid rgba(0,0,0,.4);
+    padding: 0;
+}
